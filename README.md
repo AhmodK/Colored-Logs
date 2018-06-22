@@ -4,16 +4,17 @@ Wrote this when I first started learning NodeJS
 
 To use Add the file into your workspace and require it 
 
-
+```
 const log                   =                      require('./colorText');
+```
 
-![Colored Image](url)
+![](example.png)
 
 
 # Commands
 
 ### The color of these depend on the color of your terminal text
-
+```
 log.log()
 
 log.bright()
@@ -27,10 +28,11 @@ log.blink()
 log.reverse()
 
 log.hidden()
+```
 
 
 ### These will change the color of the text
-
+```
 log.black()
 
 log.red()
@@ -46,5 +48,6 @@ log.magenta()
 log.cyan()
 
 log.white()
+````
 
 
