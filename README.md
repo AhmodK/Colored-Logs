@@ -1,6 +1,8 @@
 # Colored-Logs
 Makes colored logs easier than other node modules.
-Wrote this when I first started learning NodeJS
+
+# Nostalgia Repo
+This was one of the first code projects I ever made. Around 2016-2017. It's only here for the memories
 
 To use Add the file into your workspace and require it 
 
